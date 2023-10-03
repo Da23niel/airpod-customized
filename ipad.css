@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.mac{
+    margin: 4rem;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head{
+    display: flex;
+    padding: 15px;
+    justify-content: center ;
+    background-color: rgb(197, 189, 189);   
+}
+ul{
+    display: flex;
+}
+.w11{
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+}
+.w12{
+    font-size: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.ipad{
+    padding: 15px;
+    margin-left: 2rem;
+}
+label{
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#question{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 7px;
+font-size: 1rem;
+border-radius: 10px;
+padding-right: 5rem;
+}
+.w13{
+    justify-content: right;
+    margin-left: 2rem;
+}
+#as-search-input{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 7px;
+    font-size: 1rem;
+    border-radius: 10px;
+    padding-right: 5rem;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: 1.8rem;
+    font-weight: lighter;
+}
+.container{
+    justify-content: center;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    align-items: center;
+    text-align: left;
+    font-style: normal;
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1.4em;
+    font-weight: lighter;
+}
+p{
+    font-weight: bold;
+}
+
+.see-also{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    border: solid 1px blue;
+    padding: 8px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 5px;
+
+}
+.answer{
+    background-color: white;
+    margin-right: 2rem;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.helpful{
+    justify-content: right;
+    text-align: center;
+}
